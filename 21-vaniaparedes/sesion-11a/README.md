@@ -2,8 +2,6 @@
 
 ## Proyecto 03
 
-+ Quizás mismo Poryecto 02 pero evolucionado
-
 + Diseño abierto mas fomeque, simplecito, no tanta puesta en escena. 9 al 12 de diciembre.
 
 + Quizás grupos de más personas / Por roles
