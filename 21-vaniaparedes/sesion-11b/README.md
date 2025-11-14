@@ -97,14 +97,14 @@ Claudia desarrolla una metodología recurrente que podríamos sintetizar así: *
 + Museo de Arte Contemporáneo (MAC) — Hidroscopia / Mapocho (Sala Anilla). <https://www.claudiagonzalez.cl/projects/hidroscopia-mapocho/>
 + Artishock — artículo/entrevista sobre *Hidroscopia / Biobío* (reseña y entrevista). <https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
 
-### Encargo 18
+#### Encargo 18
 "cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes."
 
-### Taxonomía técnica — *Hidroscopia / Biobío* (Claudia González Godoy)
+#### Taxonomía técnica — *Hidroscopia / Biobío* (Claudia González Godoy)
 
 **Obra**: *Hidroscopia / Biobío*, presentada en la Bienal de Artes Mediales 2025.
 
-### Qué sensores, actuadores, hardware y software usa:
+#### Qué sensores, actuadores, hardware y software usa:
 
 + **Sensores**:  Medidor de conductividad o resistencia del agua para captar propiedades eléctricas.
        + Micrófonos/amplificadores para registrar el sonido de la caída o el flujo del agua.
@@ -118,7 +118,7 @@ Claudia desarrolla una metodología recurrente que podríamos sintetizar así: *
 + **Software / Control**: Un programa lógico (probablemente con microcontrolador) que gestiona los ciclos de las bombas y coordina el flujo del agua.
        + Control de datos de sensores para traducir señales eléctricas del agua en acciones (como activar bombas).
 
-### Cómo funciona todo junto:
+#### Cómo funciona todo junto:
 
 1. Se miden propiedades del agua (resistencia, conductividad), lo que da datos vivos del río.
 2. Un microcontrolador usa esos datos para encender/apagar bombas según un programa.
@@ -127,7 +127,7 @@ Claudia desarrolla una metodología recurrente que podríamos sintetizar así: *
 5. Las placas de cobre reaccionan químicamente al agua (sulfuran o se corroen), lo cual también se vuelve parte del registro material del tiempo y del río.
 
 
-### Fuentes:
+#### Fuentes:
 
 + Ficha del proyecto Hidroscopia / Loa (Cu) — web de Claudia González Godoy (descripción técnica: bombas, medición de resistencia, placas de cobre, video). <https://www.claudiagonzalez.cl/projects/hidrosciopia-loa-cu/>
 + Artículo/entrevista sobre Hidroscopia / Biobío (Artishock, 14 Sep 2025) — contexto de la obra, materiales y electrónica/registro sonoro. <https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
