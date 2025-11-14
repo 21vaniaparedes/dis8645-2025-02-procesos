@@ -128,6 +128,7 @@ Claudia desarrolla una metodología recurrente que podríamos sintetizar así: *
 
 
 ### Fuentes:
+
 + Ficha del proyecto Hidroscopia / Loa (Cu) — web de Claudia González Godoy (descripción técnica: bombas, medición de resistencia, placas de cobre, video). <https://www.claudiagonzalez.cl/projects/hidrosciopia-loa-cu/>
 + Artículo/entrevista sobre Hidroscopia / Biobío (Artishock, 14 Sep 2025) — contexto de la obra, materiales y electrónica/registro sonoro. <https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
 + Página oficial 17ª Bienal de Artes Mediales — listado de participantes (Claudia González aparece en el programa). 
