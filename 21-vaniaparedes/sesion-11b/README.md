@@ -90,7 +90,7 @@ Claudia desarrolla una metodología recurrente que podríamos sintetizar así: *
 
 + Artículos y textos sobre materialidad en soportes electrónicos y agua (ej.: "Water Resistance. Agua y Electricidad: Concepto de materialidad en los soportes electrónicos", Resonancias, 2015). Publicaciones y ponencias en revistas y encuentros de arte y tecnología.
 
-### Fuentes
+### Referencias
 
 + Sitio oficial / CV de la artista — CGG | Claudia González Godoy. <https://www.claudiagonzalez.cl>
 + Museo de la Solidaridad Salvador Allende — Hidroscopia / Loa (2018).<https://www.mssa.cl/exposicion/hidroscopia-loa/>
